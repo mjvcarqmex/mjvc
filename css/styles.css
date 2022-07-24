@@ -1,0 +1,203 @@
+body {
+  font-family: "Montserrat";
+}
+
+h1 {
+  font-family: "Yellowtail";
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3.25rem;
+  line-height: 1.5;
+}
+
+h3 {
+  color: #000;
+  font-size: 1.5rem;
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.container-fluid {
+  padding: 1% 5%;
+}
+
+.center{
+  display: block;
+  margin: auto;
+  width: 60%;
+  height: 90%;
+  border:solid 5px;
+  border-radius: 2px;
+  border-color:#ffffff;
+}
+.centerText{
+  display: block;
+  margin: 5% 20%;
+
+}
+.sec-bco {
+  background-color: #ffffff;
+  color: #004962;
+}
+.sec-prin{
+  background-image: url(../images/Huauchinango.jpeg);
+  height:90vh;
+}
+
+.mask{
+  background-color: rgba(0, 0, 0, 0.7);
+  height:90vh;
+}
+
+.sec-color {
+  background-color: #004962;
+  color: #ffffff;
+  padding: 2% 2%;
+}
+ .sec-color a{
+   color:#ffffff;
+ }
+/*Navigation bar*/
+
+
+.nav-item {
+  padding: 0 1px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: "Montserrat";
+  color:#8f8f8f;
+}
+.map{
+  width:100%;
+  height:400px;
+}
+footer{
+  text-align: center;
+}
+/*Download buttons*/
+/*.download-btn {
+  margin: 5% 3% 5% 0;
+}*/
+
+/*title image*/
+/*.title-img {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}*/
+
+/*features*/
+/*#features {
+  padding: 7% 15%;
+  position: relative;
+  background-color: #004962;
+  z-index: 1;
+}
+
+.fbox {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}*/
+
+/*Testimonials*/
+/*#testimonials {
+  background-color: #ef8172;
+  color: #fff;
+  text-align: center;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.carousel-control-next {
+  background-color: #ef8172;
+  border: 0;
+}
+
+.carousel-control-prev {
+  background-color: #ef8172;
+  border: 0;
+}*/
+
+/*press*/
+/*#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}*/
+
+/*pricing section*/
+/*#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+}
+
+@media (max-width:1028px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-img {
+    position: static;
+    transform: rotate(0);
+  }
+}*/
+
+/*Call to action*/
+/*#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 3% 15%;
+}
+
+#cta h3 {
+  color: #ffffff;
+  font-size: 3rem;
+}
+
+footer {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 3% 3%;
+}
+
+footer i {
+  margin: 1rem;
+}*/
